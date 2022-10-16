@@ -17,7 +17,13 @@
 </p>
 
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **Backend**<br><br>- 👨‍💻 All of my projects are available at [https://xxrohitxx.github.io/](https://xxrohitxx.github.io/)<br><br>- 💬 Ask me about **react, DSA, JavaScript**<br><br>- 📫 How to reach me **rohitrs319791@gmail.com**
+<br></br>
+- 🔭 I’m currently pursuing Full Stack Web Development
+- 💬 Ask me about    **JavaScript, DSA, React**
+- 📫 How to reach me   **rohitrs319791@gmail.com**
+- 👨‍💻 Portfolio    [https://xxrohitxx.github.io/](https://xxrohitxx.github.io/)
+- 🌐 LinkedIn     [iamrohit90/](https://www.linkedin.com/in/iamrohit90/)
+
 
 
 <div  align="center">
@@ -31,5 +37,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxRohitxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xxRohitxx&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
