@@ -18,11 +18,12 @@
 
 # 💫 About Me:
 <br></br>
-- 🔭 I’m currently pursuing Full Stack Web Development
-- 💬 Ask me about    **JavaScript, DSA, React**
-- 📫 How to reach me   **rohitrs319791@gmail.com**
-- 👨‍💻 Portfolio    [https://xxrohitxx.github.io/](https://xxrohitxx.github.io/)
-- 🌐 LinkedIn     [iamrohit90/](https://www.linkedin.com/in/iamrohit90/)
+- 🔭 I’m currently →  pursuing Full Stack Web Development
+- 💬 Ask me about  →   **JavaScript, DSA, React**
+- 📫 How to reach me →   **rohitrs319791@gmail.com**
+- 👨‍💻 Portfolio  →   [https://xxrohitxx.github.io/](https://xxrohitxx.github.io/)
+- 🌐 LinkedIn  →    [iamrohit90/](https://www.linkedin.com/in/iamrohit90/)
+- 📜 Here is my resume → <a href="https://drive.google.com/drive/u/0/folders/1T4S1ECWEfx3T3xdBtQcOFXn5wMYQyvXV">Resume</a>
 
 
 
